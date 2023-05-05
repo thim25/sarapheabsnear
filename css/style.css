@@ -1,0 +1,65 @@
+body{
+
+    margin: 0;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 90vh;
+
+    font-family: Siemreap;
+
+}
+
+.container {
+
+    background-color: orange;
+
+    padding: 1rem;
+
+    border-radius: 10px;
+
+    width: 250px;
+
+}
+
+.btn {
+
+    padding: .5rem 2rem;
+
+    outline: none;
+
+    border: none;
+
+    font-weight: 10px;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+}
+
+.btnPrimary {
+
+    background-color: aqua;
+
+    color: red;
+
+}
+
+.btnSecondary {
+
+    padding: .5rem 1rem;
+
+    background-color: palevioletred;
+
+}
+
+.moving {
+
+    margin-left: 50px;
+
+}
